@@ -1,5 +1,5 @@
 # build output
-dist/
+# dist/ # because gh-pages didn't work, ssh issues
 # generated types
 .astro/
 
